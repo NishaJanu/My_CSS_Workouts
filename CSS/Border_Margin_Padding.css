@@ -1,0 +1,27 @@
+#para1{
+    margin:0 100px 0 100px ;
+    border:5px solid rgb(156, 225, 156);
+    border-radius: 100px;
+}
+#para2{
+    
+    margin: 25px 100px 0 100px ;
+    border:5px solid rgb(234, 216, 114);
+    border-radius: 100px;
+}
+#para3{
+    
+    margin: 25px 100px 0 100px ;
+    border:5px dashed rgb(150, 222, 232);
+    border-radius: 100px;
+
+}
+#btn{
+    margin: 25px 100px 0 50% ;
+   padding: 5px 5px 5px 5px;
+   border: 2px dotted rgb(146, 99, 99);
+
+}
+#h{
+    margin: 0 0 0 400px;
+}
