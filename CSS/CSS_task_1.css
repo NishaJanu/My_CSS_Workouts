@@ -1,0 +1,24 @@
+.table,tr,td,th{
+    text-align: center;
+    border:2px solid black;
+    border-collapse:collapse;
+    }
+
+
+
+
+.t-1{
+    color: azure;
+    background-color: rgb(228, 120, 38);
+    text-align: center;
+     border:2px solid black;
+
+}
+.t-2{
+    color: azure;
+    background-color: rgb(228, 120, 38);
+    text-align: center;
+     border:2px solid black;
+
+}
+
