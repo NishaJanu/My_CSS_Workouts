@@ -1,0 +1,24 @@
+h1{
+    
+    position:sticky;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px; 
+}
+
+
+.con1{
+    border: 2px solid blue;
+    background-color: aqua;
+    top:0px;
+    bottom:300px;
+    left:0px;
+    right:900px; 
+    
+
+}
+.con2>p{
+     border: 2px solid blue;
+
+}

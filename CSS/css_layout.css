@@ -1,0 +1,39 @@
+h1{
+    text-align:left;
+}
+.con1>p{
+    display: inline;
+    border: 2px solid red;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.con2>p{
+    display:inline-block;
+    border: 2px solid red;
+    margin: 40px 20px 20px 20px;
+    padding: 20px;
+    
+}
+.con3>p{  
+    border: 2px solid brown;
+    background-color: azure;  
+    box-shadow: 2px 2px 1px 1px gray;
+    display:block;
+    
+    
+}
+.con4>p{
+    display:none;
+
+}
+.con5>p{
+    visibility:hidden;
+
+}
+.con6>p{
+    border: 2px solid gray;
+    height: 35px;
+    overflow:scroll;
+
+}
