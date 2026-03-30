@@ -1,0 +1,33 @@
+.whole{
+   
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+   gap: 10px;
+
+}
+.app{
+    
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 40px;
+}
+.temp{
+    border: 3px solid rgb(16, 16, 16);
+    border-radius: 20px;
+    width: 179px;
+    height:300px;
+    background-color: aquamarine;
+    
+}
+.butt{
+         margin: 30px;
+         padding: 5px;
+         position: relative;
+         bottom:20px;
+        left:22px;
+        font-weight: 700;
+        border-radius: 50%;
+}
+
+ 
