@@ -1,0 +1,43 @@
+/* .prt{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid green;
+    background-color: cadetblue;
+    color: bisque;
+    width:10%;
+    height:100px;
+    margin: 20px;
+    padding:60px 20px 0 20px;
+    transition-property::after
+    transition-width::after
+    transition-timing-function:
+    transition:20px 5s ease-in-out;
+}
+
+.prt:hover{
+    width:20%;
+    height:150px    ;
+    background-color: blue;
+} */
+
+.prt {
+    background-color:rgb(231, 96, 96) ;
+    color:white;
+    width: 100px;
+    height:100px;
+    padding:20px;
+    text-align:center;
+    transition-duration: 1s;
+    transition-property: width; 
+    transition-timing-function:ease-in;
+
+    /* transition : width 3s ease-in; */
+}
+/* Pesudo-class-selector*/  
+
+.prt:hover {
+    background-color: blueviolet;
+    width: 100%;
+    height: 700px;
+}
